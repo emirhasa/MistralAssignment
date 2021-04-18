@@ -1,0 +1,8 @@
+@import "sass/base";
+
+.app {
+    padding: 0.5rem;
+}
+
+@import "./components/header/header.styles";
+@import "./components/showCard/showCard.styles";
