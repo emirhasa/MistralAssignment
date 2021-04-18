@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 
-import { Card, FormControl, Grid, IconButton, Input, InputAdornment, InputLabel, Paper } from '@material-ui/core';
+import { Grid } from '@material-ui/core';
 
 import ShowCard from '../showCard/showCard.component';
 
